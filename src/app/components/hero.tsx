@@ -83,7 +83,7 @@ const WorkTogether = () => (
     <div className="flex justify-center items-center gap-16">
       
       <div className="w-[824px] h-[549px] flex items-center justify-center">
-        <Image src={content} alt="content" className="object-contain" />
+        <Image src={content} alt="content" className="object-contain"/>
       </div>
       
       <div className="w-[656px]">
@@ -128,7 +128,7 @@ const UseExtension = () => (
           take screenshots as notes.
         </p>
         <button className="bg-[#4F9CF9] hover:bg-blue-700 text-[#FFFFFF] font-bold py-3 px-6 rounded-lg flex items-center mt-6 mx-auto lg:mx-0">
-          Let's Go
+          Lets Go
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-5 w-5 ml-2"
@@ -172,7 +172,7 @@ const UseExtension = () => (
                 Or create your own scripts and plugins using the Extension API.
               </p>
               <button className="bg-[#4F9CF9] hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg flex items-center mt-6 mx-auto lg:mx-0">
-                Let's Go
+                Lets Go
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="h-5 w-5 ml-2"
